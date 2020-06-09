@@ -7,3 +7,7 @@ O desafio do curso de JS era fazer um projeto de "to-do" que tivesse como:
 - Adicionar uma tarefa;
 - Remover uma tarefa;
 - Salvar no localstorage;
+
+Como testar:
+- Baixe (ou de um clone com git) a pasta;
+- Abra o index.html
