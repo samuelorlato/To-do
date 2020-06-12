@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'MuseoModerno', cursive;
 }
 body{
     background-color: #35363a;
@@ -30,7 +30,8 @@ i:hover{
 input{
     width: 20vw;
     margin-left: 2vw;
-    padding: 1vh;
+    margin-right: 0.2vw;
+    padding: 0.5%;
     border: 0;
     background-color: rgb(87, 88, 88);
     color: #FFFFFF;
@@ -45,7 +46,7 @@ input:focus{
     align-items: center;
 }
 li{
-    margin: 3.1vw;
+    margin: 3.5vw;
     margin-top: 2vh;
     margin-bottom: 2vh;
     color: #FFFFFF;
