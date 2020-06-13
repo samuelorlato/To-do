@@ -11,3 +11,7 @@ O desafio do curso de JS era fazer um projeto de "to-do" que tivesse como:
 Como testar:
 - Baixe (ou de um clone com git) a pasta;
 - Abra o index.html
+
+ou
+
+- entre neste link no seu navegador: http://to-do-minimal.rf.gd/
