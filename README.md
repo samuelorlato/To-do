@@ -14,4 +14,4 @@ Como testar:
 
 ou
 
-- entre neste link no seu navegador: http://to-do-minimal.rf.gd/
+- Entre neste link no seu navegador: http://to-do-minimal.rf.gd/
