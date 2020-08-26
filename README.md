@@ -1,17 +1,17 @@
 ### To-do
-(http://to-do-minimal.rf.gd/) Projeto simples feito para estudo de Javascript, funciona como um "to-do", ou seja adicionar tarefas.
+(http://to-do-minimal.rf.gd/) A project made for Javascript studies, which works as a "to-do list".
 
-Estou iniciando em **Javascript**, estou fazendo um curso [aqui](https://rocketseat.com.br/) e um curso de **desenvolvimento web** [aqui](https://www.ctrlplay.com.br/)
+I'm beggining in **Javascript** and I taking a course [here](https://rocketseat.com.br/) and a other course [here](https://www.ctrlplay.com.br/) 
 
-O desafio do curso de JS era fazer um projeto de "to-do" que tivesse como:
-- Adicionar uma tarefa;
-- Remover uma tarefa;
-- Salvar no localstorage;
+The course challenge was make a "to-do" project with these functions:
+- Add a task;
+- Remove a task;
+- Save the task in the local storage.
 
-Como testar:
-- Baixe (ou de um clone com git) a pasta;
-- Abra o index.html
+How to test:
+- Download the folder (or use git clone);
+- Open the index.html file.
 
-ou
+Or
 
-- Entre neste link no seu navegador: http://to-do-minimal.rf.gd/
+- **Go to this link: http://to-do-minimal.rf.gd/**
