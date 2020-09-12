@@ -4,9 +4,9 @@
 I'm beggining in **Javascript** and I taking a course [here](https://rocketseat.com.br/) and a other course [here](https://www.ctrlplay.com.br/) 
 
 The course challenge was make a "to-do" project with these functions:
-- Add a task;
-- Remove a task;
-- Save the task in the local storage.
+- [x] Add a task;
+- [x] Remove a task;
+- [x] Save the task in the local storage.
 
 How to test:
 - Download the folder (or use git clone);
